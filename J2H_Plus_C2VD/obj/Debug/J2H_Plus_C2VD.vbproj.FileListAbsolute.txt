@@ -8,3 +8,16 @@ c:\users\user\documents\visual studio 2015\Projects\J2H_Plus_C2VD\J2H_Plus_C2VD\
 c:\users\user\documents\visual studio 2015\Projects\J2H_Plus_C2VD\J2H_Plus_C2VD\obj\Debug\J2H_Plus_C2VD.exe
 c:\users\user\documents\visual studio 2015\Projects\J2H_Plus_C2VD\J2H_Plus_C2VD\obj\Debug\J2H_Plus_C2VD.xml
 c:\users\user\documents\visual studio 2015\Projects\J2H_Plus_C2VD\J2H_Plus_C2VD\obj\Debug\J2H_Plus_C2VD.pdb
+C:\Users\User\Source\Repos\J2H_Plus_C2VD\J2H_Plus_C2VD\obj\Debug\J2H_Plus_C2VD.exe
+C:\Users\User\Source\Repos\J2H_Plus_C2VD\J2H_Plus_C2VD\obj\Debug\J2H_Plus_C2VD.xml
+C:\Users\User\Source\Repos\J2H_Plus_C2VD\J2H_Plus_C2VD\obj\Debug\J2H_Plus_C2VD.pdb
+C:\Users\User\Source\Repos\J2H_Plus_C2VD\J2H_Plus_C2VD\bin\Debug\J2H_Plus_C2VD.exe
+C:\Users\User\Source\Repos\J2H_Plus_C2VD\J2H_Plus_C2VD\bin\Debug\J2H_Plus_C2VD.pdb
+C:\Users\User\Source\Repos\J2H_Plus_C2VD\J2H_Plus_C2VD\bin\Debug\J2H_Plus_C2VD.xml
+C:\Users\User\Source\Repos\J2H_Plus_C2VD\J2H_Plus_C2VD\bin\Debug\ScintillaNET.dll
+C:\Users\User\Source\Repos\J2H_Plus_C2VD\J2H_Plus_C2VD\bin\Debug\ScintillaNET.pdb
+C:\Users\User\Source\Repos\J2H_Plus_C2VD\J2H_Plus_C2VD\bin\Debug\ScintillaNET.xml
+C:\Users\User\Source\Repos\J2H_Plus_C2VD\J2H_Plus_C2VD\obj\Debug\J2H_Plus_C2VD.vbprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\J2H_Plus_C2VD\J2H_Plus_C2VD\obj\Debug\J2H_Plus_C2VD.Form1.resources
+C:\Users\User\Source\Repos\J2H_Plus_C2VD\J2H_Plus_C2VD\obj\Debug\J2H_Plus_C2VD.Resources.resources
+C:\Users\User\Source\Repos\J2H_Plus_C2VD\J2H_Plus_C2VD\obj\Debug\J2H_Plus_C2VD.vbproj.GenerateResource.Cache
