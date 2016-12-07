@@ -41,6 +41,8 @@ Partial Class Form1
         Me.lblCoincidencia = New System.Windows.Forms.Label()
         Me.lblLinCol = New System.Windows.Forms.Label()
         Me.TabControl1 = New System.Windows.Forms.TabControl()
+        Me.guardarCuadroD = New System.Windows.Forms.SaveFileDialog()
+        Me.abrirCuadroD = New System.Windows.Forms.OpenFileDialog()
         Me.MenuStrip1.SuspendLayout()
         Me.SplitContainer1.Panel1.SuspendLayout()
         Me.SplitContainer1.Panel2.SuspendLayout()
@@ -155,6 +157,7 @@ Partial Class Form1
         Me.txtBuscar.Name = "txtBuscar"
         Me.txtBuscar.Size = New System.Drawing.Size(113, 20)
         Me.txtBuscar.TabIndex = 0
+        Me.txtBuscar.Text = "Buscar"
         '
         'txtRemplazar
         '
@@ -162,6 +165,7 @@ Partial Class Form1
         Me.txtRemplazar.Name = "txtRemplazar"
         Me.txtRemplazar.Size = New System.Drawing.Size(113, 20)
         Me.txtRemplazar.TabIndex = 1
+        Me.txtRemplazar.Text = "Remplazar"
         '
         'btnBuscar
         '
@@ -218,6 +222,10 @@ Partial Class Form1
         Me.TabControl1.Size = New System.Drawing.Size(700, 358)
         Me.TabControl1.TabIndex = 0
         '
+        'abrirCuadroD
+        '
+        Me.abrirCuadroD.Filter = "Documentos json|*.json| documentos jsl|*.jsl"
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -262,4 +270,6 @@ Partial Class Form1
     Friend WithEvents txtBuscar As TextBox
     Friend WithEvents lblLinCol As Label
     Friend WithEvents TabControl1 As TabControl
+    Friend WithEvents guardarCuadroD As SaveFileDialog
+    Friend WithEvents abrirCuadroD As OpenFileDialog
 End Class
